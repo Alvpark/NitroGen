@@ -8,13 +8,13 @@
 <br />
 
 <div align="center">
-  <pre align="center" style="line-height: 20%">
+  <h3 align="center" style="font-family: monospace; white-space: pre;">
     _   _   _   _                     ____                 <br />
    | \ | | (_) | |_   _ __    ___    / ___|   ___   _ __   <br />
    |  \| | | | | __| | '__|  / _ \  | |  _   / _ \ | '_ \  <br />
    | |\  | | | | |_  | |    | (_) | | |_| | |  __/ | | | | <br />
    |_| \_| |_|  \__| |_|     \___/   \____|  \___| |_| |_| <br />
-  </pre>
+  </h3>
   <p align="center">
     <br />
     Discord Nitro Generator With Online Checker
