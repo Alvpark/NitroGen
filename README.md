@@ -1,14 +1,14 @@
 <p align="center">
-![GitHub stars](https://img.shields.io/github/stars/mrawsky/NitroGen?style=?style=for-the-badge&color=blue)
-![GitHub forks](https://img.shields.io/github/forks/mrawsky/NitroGen?style=?style=for-the-badge&color=blue)
-![GitHub watchers](https://img.shields.io/github/issues/mrawsky/NitroGen?style=?style=for-the-badge&color=blue)
-![GitHub followers](https://img.shields.io/github/issues-pr/mrawsky/NitroGen?style=?style=for-the-badge&color=blue)
+<img src=https://img.shields.io/github/stars/mrawsky/NitroGen?style=?style=for-the-badge&color=blue />
+<img src=https://img.shields.io/github/forks/mrawsky/NitroGen?style=?style=for-the-badge&color=blue />
+<img src=https://img.shields.io/github/issues/mrawsky/NitroGen?style=?style=for-the-badge&color=blue />
+<img src=https://img.shields.io/github/issues-pr/mrawsky/NitroGen?style=?style=for-the-badge&color=blue />
 <p>
 <br />
 
 <div align="center">
   <h3 align="center">NitroGen</h3>
-
+  <br />
   <p align="center">
     Discord Nitro Generator With Online Checker
     <a href="#Features">Features</a>
@@ -65,4 +65,5 @@ Contributions are what make the open source community such an amazing place to l
 ## Author
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrawsky)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
 ![Profile View Counter](https://komarev.com/ghpvc/?username=mrawsky)
