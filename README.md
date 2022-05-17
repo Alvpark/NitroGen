@@ -9,8 +9,8 @@
 <div align="center">
   <h3 align="center">NitroGen</h3>
   <p align="center">
-    Discord Nitro Generator With Online Checker
     <br />
+    Discord Nitro Generator With Online Checker
     <br />
     <a href="#Features">Features</a>
     ·
