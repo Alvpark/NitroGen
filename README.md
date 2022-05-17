@@ -8,7 +8,8 @@
 
 <div align="center">
   <h3 align="center">NitroGen</h3>
-  <br /><br />
+</div>
+<div align="center">
   <p align="center">
     Discord Nitro Generator With Online Checker
     <a href="#Features">Features</a>
