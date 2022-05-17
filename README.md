@@ -8,13 +8,7 @@
 <br />
 
 <div align="center">
-  <pre align="center" style="">
- _   _   _   _                     ____
-| \ | | (_) | |_   _ __    ___    / ___|   ___   _ __
-|  \| | | | | __| | '__|  / _ \  | |  _   / _ \ | '_ \
-| |\  | | | | |_  | |    | (_) | | |_| | |  __/ | | | |
-|_| \_| |_|  \__| |_|     \___/   \____|  \___| |_| |_|
-  </pre>
+  <h3 align="center">NitroGen</h3>
   <p align="center">
     <br />
     Discord Nitro Generator With Online Checker
