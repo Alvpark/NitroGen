@@ -8,7 +8,11 @@
 <br />
 
 <div align="center">
-  <h3 align="center">NitroGen</h3>
+  <h3 align="center">  _   _   _   _                     ____</h3>
+  <h3 align="center"> | \ | | (_) | |_   _ __    ___    / ___|   ___   _ __  </h3>
+  <h3 align="center"> |  \| | | | | __| | '__|  / _ \  | |  _   / _ \ | '_ \ </h3>
+  <h3 align="center"> | |\  | | | | |_  | |    | (_) | | |_| | |  __/ | | | |</h3>
+  <h3 align="center"> |_| \_| |_|  \__| |_|     \___/   \____|  \___| |_| |_|</h3>
   <p align="center">
     <br />
     Discord Nitro Generator With Online Checker
