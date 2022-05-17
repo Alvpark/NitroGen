@@ -8,7 +8,7 @@
 <br />
 
 <div align="center">
-  <pre align="center" style="line-height: 0.5">
+  <pre align="center" style="line-height: 20%">
     _   _   _   _                     ____                 <br />
    | \ | | (_) | |_   _ __    ___    / ___|   ___   _ __   <br />
    |  \| | | | | __| | '__|  / _ \  | |  _   / _ \ | '_ \  <br />
