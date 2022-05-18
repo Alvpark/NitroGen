@@ -3,7 +3,6 @@
 <img src=https://img.shields.io/github/forks/mrawsky/NitroGen?style=?style=for-the-badge&color=blue />
 <img src=https://img.shields.io/github/issues/mrawsky/NitroGen?style=?style=for-the-badge&color=blue />
 <img src=https://img.shields.io/github/issues-pr/mrawsky/NitroGen?style=?style=for-the-badge&color=blue />
-<img src=https://img.shields.io/github/downloads/mrawsky/NitroGen/total?style=?style=for-the-badge&color=blue />
 <p>
 <br />
 
