@@ -32,6 +32,7 @@
 ## Installation
 
 **Required:** Node.js [axios, chalk, clear, figlet, fs, inquirer]
+
 Clone Repository
 
 ```bash
