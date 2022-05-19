@@ -53,7 +53,7 @@ Install Node Packages
 Run NitroGen
 
 ```bash
-  node ./index.js
+  npm run start
 ```
 
 ## Roadmap
