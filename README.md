@@ -22,6 +22,9 @@
   </p>
 </div>
 
+<img src=https://i.ibb.co/g9LQbDw/image.png />
+<img src=https://i.ibb.co/Hp3gKtg/image.png />
+
 ## Features
 
 - Generating Nitro Codes
